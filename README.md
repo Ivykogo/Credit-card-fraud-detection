@@ -7,6 +7,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 ## Dataset
 
 The dataset used for this project contains the following columns:
+Here is the link to the dataset https://drive.google.com/file/d/1inQ5W1KDS1v1w6dBd-znRoA67O6ZvD1B/view?usp=drive_link
 
 - **Time**: Time elapsed between this transaction and the first transaction in the dataset.
 - **V1, V2, V3, ..., V28**: Anonymized features related to the transaction (you can consider these as transformed features of the original data).
